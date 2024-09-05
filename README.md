@@ -1,4 +1,4 @@
-Hi, I’m @JosephRenzi
+Hi, I’m @JosephRenzi!
 I'm a recent PhD graduate in partial differential equations.
 My research focused on developing new techniques for qualitatively describing and solving complex nonlinear PDEs, 
   with applications in fluid dynamics and materials science. 
