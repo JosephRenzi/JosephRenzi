@@ -8,7 +8,6 @@ Throughout my academic journey, I've honed my ability to tackle intricate proble
   and communicate complex ideas effectively.
 I'm particularly interested in applying my skills to real-world challenges in industries,
   where my expertise in mathematical modeling and data analysis can drive innovation and provide valuable insights.
-
 <!---
 JosephRenzi/JosephRenzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
