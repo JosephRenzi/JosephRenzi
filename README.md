@@ -1,5 +1,5 @@
 Hello,
- I'm a recent PhD graduate in partial differential equations.
+ I'm a recent PhD graduate in applied mathematics.
  My research focused on developing new techniques for qualitatively describing and solving complex nonlinear PDEs, 
   with applications in fluid dynamics and materials science. 
  I have a strong foundation in mathematical modeling, numerical analysis, and scientific computing,
